@@ -565,6 +565,9 @@ font-size:3rem;
 margin-bottom:25px;
 
 }
+function downloadCertificate(){
+  alert("Certificate Download Clicked!");
+}
 
 .certificate-footer{
 
